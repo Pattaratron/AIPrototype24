@@ -160,6 +160,6 @@ screen -R #กระโดดกลับเข้่าไปที่ screen
   ```
   - Setting owner Github (ทำครั้งเดียว)
   ```
-  git config --global user.name "Ratchanontt"
-  git config --global user.email "ratchanont.t@kkumail.com"
+  git config --global user.name "Pattaratron"
+  git config --global user.email "pattaratron.t@kkumail.com"
   ```

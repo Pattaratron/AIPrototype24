@@ -153,7 +153,7 @@ screen -R #กระโดดกลับเข้่าไปที่ screen
 ## 6. Github
   - Save code on github
   ```
-  git clone https://github.com/Ratchanontt/AIPrototype24.git
+  git clone https://github.com/Pattaratron/AIPrototype24.git
   git add testcloudvm.py
   git commit -m "test cloud server"
   git push

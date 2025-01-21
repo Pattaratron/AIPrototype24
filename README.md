@@ -129,16 +129,9 @@ exit()
   ```
 
 - ส่งไฟล์จากเครื่องเราไปบน Cloud (ต้องรันบนเครื่องเรา)
-  ```
-  scp ./xxx nnnt@IP:~/xxx/xxx/. Ex. scp ./testcode.py nnnt@4.221.171.101:~/code/.
-  scp -r testfolder1/ nnnt@IP:~/nnnt/. # cp folder in PC to Cloud
-  ```
+
 
 - ดึงไฟล์จาก cloud มาเครื่องเรา (ต้องรันบนเครื่องเรา)
-  ```
-  scp nnnt@IP:/xxx/xxx/yyy.py /home/nnnt
-  scp nnnt@4.221.171.101:/home/nnnt/code2/newtest.py /Users/macbookair # move file from folder name code2  on nnnt Cloud to PC
-  ```
 
 ## 5. Session
 ```
@@ -161,5 +154,5 @@ screen -R #กระโดดกลับเข้่าไปที่ screen
   - Setting owner Github (ทำครั้งเดียว)
   ```
   git config --global user.name "Pattaratron"
-  git config --global user.email "pattaratron.t@kkumail.com"
+  git config --global user.email "pattaratron.g@kkumail.com"
   ```

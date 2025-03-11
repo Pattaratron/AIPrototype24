@@ -1,7 +1,7 @@
 # Managing Environment Conda
  Conda สามารถติดตั้งได้จาก
-- **Miniconda** 👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
-- **Anaconda** 👉 [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
+- **Miniconda** ➡️ [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+- **Anaconda** ➡️ [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
 ```sh
 conda --version #ตรวจสอบว่าติดตั้งสำเร็จหรือไม่?
 ```

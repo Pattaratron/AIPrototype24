@@ -1,4 +1,5 @@
-# Managing Environment Conda
+# 21/01/2568
+## Managing Environment Conda
  Conda สามารถติดตั้งได้จาก
 - **Miniconda** ➡️ [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 - **Anaconda** ➡️ [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)

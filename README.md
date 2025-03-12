@@ -1,4 +1,4 @@
-# AIPrototype24
+# AIPrototype24 ![blue-archive-hoshino (1)](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/2b2d4c3a-956e-4ea4-b9ea-983c831c254a)
 AI Prototyping 2024 Pattaratron Gonmanee Student ID: 643020513-9
 ### เป้าหมายในรายวิชา
 - สร้าง sever สําหรับเพิ่มและแก้ไข ข้อมูลในการใช้งาน intent ของ Google Dialogflow
